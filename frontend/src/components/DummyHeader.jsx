@@ -3,7 +3,7 @@ import React from "react";
 export default function DummyHeader() {
 
     var s = {
-        height: "2cm",
+        height: "3cm",
         width: "5cm"
     }
 
